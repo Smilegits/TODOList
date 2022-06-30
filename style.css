@@ -1,0 +1,18 @@
+#body {
+    background-color: #D3EBCD;
+    color: #635666;
+}
+
+#heading {
+    font-family: 'Arima', cursive;
+    font-size: 5.29rem;
+    color: #635666;
+}
+
+#add-button {
+    margin-left: 45%;
+}
+
+#items {
+    background-color: #AEDBCE;
+}
